@@ -1,0 +1,35 @@
+Rdp = {
+    {nordp = 1, botname = "tornboy70", Status = "Nonaktif"},
+    {nordp = 1, botname = "tornboy71", Status = "Nonaktif"},
+    {nordp = 2, botname = "tornboy101", Status = "Nonaktif"},
+    {nordp = 2, botname = "tornboy102", Status = "Nonaktif"},
+    {nordp = 3, botname = "tornboy95", Status = "Nonaktif"},
+    {nordp = 3, botname = "tornboy96", Status = "Nonaktif"},
+    {nordp = 4, botname = "tornboy105", Status = "Nonaktif"},
+    {nordp = 4, botname = "tornboy106", Status = "Nonaktif"},
+    {nordp = 5, botname = "tornboy98", Status = "Nonaktif"},
+    {nordp = 5, botname = "tornboy99", Status = "Nonaktif"},
+    {nordp = 6, botname = "tornboy88", Status = "Nonaktif"},
+    {nordp = 6, botname = "tornboy100", Status = "Nonaktif"}
+}
+
+ShowIP = false
+ip_add = {
+    "192.168.0.1",
+    "192.168.0.2",
+    "192.168.0.3",
+    "192.168.0.4",
+    "192.168.0.5",
+    "192.168.0.6",
+    "192.168.0.7"
+}
+
+hookURL = "https://discord.com/api/webhooks/1031415049492906015/t5t5ipRzsYXpeBtTuDYPPObm9jw6-f_vqRlWDPx-2Z4HWb3mMNPiwhslIk0x24orNGL5"
+
+Teks_Deskripsi = "List Nick Para Babu"
+Teks_Footer = "Cuan Cuan Dan Cuan"
+
+Emote_Offline = "<:offline:982957367392088124>"
+Emote_Online = "<:online:982957403756716052>"
+
+menit = 5 --TIAP BERAPA MENIT BOTNYA NGIRIM WEBHOOK
