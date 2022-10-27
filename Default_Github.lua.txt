@@ -1,16 +1,22 @@
 Rdp = {
-    {nordp = 1, botname = "tornboy70", Status = "Nonaktif"},
-    {nordp = 1, botname = "tornboy71", Status = "Nonaktif"},
-    {nordp = 2, botname = "tornboy101", Status = "Nonaktif"},
-    {nordp = 2, botname = "tornboy102", Status = "Nonaktif"},
-    {nordp = 3, botname = "tornboy95", Status = "Nonaktif"},
-    {nordp = 3, botname = "tornboy96", Status = "Nonaktif"},
-    {nordp = 4, botname = "tornboy105", Status = "Nonaktif"},
-    {nordp = 4, botname = "tornboy106", Status = "Nonaktif"},
-    {nordp = 5, botname = "tornboy98", Status = "Nonaktif"},
-    {nordp = 5, botname = "tornboy99", Status = "Nonaktif"},
-    {nordp = 6, botname = "tornboy88", Status = "Nonaktif"},
-    {nordp = 6, botname = "tornboy100", Status = "Nonaktif"}
+    {nordp = 1, botname = "TL3DTHR", Status = "Nonaktif"},
+    {nordp = 1, botname = "YVZOBXY", Status = "Nonaktif"},
+    {nordp = 1, botname = "GOFYXCH", Status = "Nonaktif"},
+    {nordp = 2, botname = "GLQC0R3", Status = "Nonaktif"},
+    {nordp = 2, botname = "TBCWKPH", Status = "Nonaktif"},
+    {nordp = 2, botname = "N5KWGEY", Status = "Nonaktif"},
+    {nordp = 3, botname = "NDTML4M", Status = "Nonaktif"},
+    {nordp = 3, botname = "J4HDVHH", Status = "Nonaktif"},
+    {nordp = 3, botname = "5OYBNS7", Status = "Nonaktif"},
+    {nordp = 4, botname = "KBWQ0UF", Status = "Nonaktif"},
+    {nordp = 4, botname = "TQLC65G", Status = "Nonaktif"},
+    {nordp = 4, botname = "ZAEV6PS", Status = "Nonaktif"},
+    {nordp = 5, botname = "3S29LLP", Status = "Nonaktif"},
+    {nordp = 5, botname = "WNLFMTH", Status = "Nonaktif"},
+    {nordp = 5, botname = "LZ8ONAM", Status = "Nonaktif"},
+    {nordp = 6, botname = "CDSNW64", Status = "Nonaktif"},
+    {nordp = 6, botname = "G2RMERU", Status = "Nonaktif"},
+    {nordp = 6, botname = "VJX5208", Status = "Nonaktif"}
 }
 
 ShowIP = false
